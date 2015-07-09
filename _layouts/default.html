@@ -15,6 +15,30 @@
 
     {% include footer.html %}
 
+  <script>
+
+  var content = [
+
+    {% for state in site.data.data %}
+    { title: "{{state.state}}" },
+    {% endfor %}
+  ];
+
+
+  $('.ui.search')
+    .search({
+      searchFields   : [
+        'title'
+      ],
+      source: content,
+      onSelect: function (result, response) {
+        console.log(result)
+        location.replace("{{site.baseurl}}/jurisdictions/" + result.title)
+      }
+    });
+
+  </script>
+
   </body>
 
 </html>

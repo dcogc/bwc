@@ -14,6 +14,7 @@ collections:
     output: true
     permalink: /jurisdictions/:path/
 
+data_source: data
 
 # Build settings
 markdown: kramdown
