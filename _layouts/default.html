@@ -33,7 +33,7 @@
       source: content,
       onSelect: function (result, response) {
         console.log(result)
-        location.replace("{{site.baseurl}}/jurisdictions/" + result.title)
+        location.replace("{{site.baseurl}}/jurisdictions/" + result.title.replace(/ /g,''))
       }
     });
 
