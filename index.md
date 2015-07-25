@@ -1,15 +1,23 @@
 ---
 layout: page
-title: Body Worn Cameras
+title: Home
 permalink: /
 ---
 
-The D.C. Open Government Coalition (DCOGC) released today a comprehensive look at how each of the fifteen states and fifteen of the largest cities are legislating on key issues surrounding the implementation of police body cameras. A response to demands from individuals and organizations around the country for increased transparency and accountability surrounding police interactions with citizens, body worn cameras present difficult policy decisions in terms of their use, the maintenance of any recordings and ability of the public to access recorded content. The DCOGC believes this is the first time anyone has compiled the vast panoply of legislation on body cameras into a single, easily accessible and reviewable document.
+## Body Worn Cameras
 
-“As we were preparing testimony for a hearing of the Committee on the Judiciary of the Council of the District of Columbia, we realized that we might benefit to see how other states and large cities had approached the issue and whether any trends or even best practices were emerging,” said DCOGC President Kevin M. Goldberg. “We asked our pro bono legal counsel at Ropes & Gray LLP if they could research this among the states. Their research was so incredibly comprehensive and informative that we simply had to share it with others working on this issue. We can’t thank our attorneys enough and are very proud to be able to make this available.”
+Please use the search button above to choose a jurisdiction or [browse by jurisdictions]({{site.baseurl}}/browse/). The survey includes all 50 states and the 15 largest cities in the country.
 
-The research as initially presented looks at how these states and cities mandate when recordings must be made (and similarly when recording cannot occur) during police-citizen interactions, how long a video must be maintained after it was recorded, the treatment of these videos under relevant state or local freedom of information, public records or right to know laws and, for comparison purposes, how these jurisdictions have treated police dashcam videos under public records laws.
+Information is available regarding all laws or pending legislation specifically dealing with body worn cameras, how those laws or bills deal with the subjects of:
 
-The initial research can be found on the [DCOGC’s website](http://dcogc.org). The information is presented in a Github format with an invitation to the public to edit information as new developments occur. There is also an [Executive Summary](executive-summary) (also prepared by attorneys at Ropes & Gray LLP) which gives an overview of the findings and the ability to review the [original results]({{site.baseurl}}/assets/body_camera_research.pdf) of this research project (more than 115 pages in length), which will remain static and current as of June 12, 2015. If there's an error in the information, or you want to provide an update to the information, please let us know using [this form](https://powerful-retreat-1975.herokuapp.com) or submit an [issue at our GitHub repository](https://github.com/dcogc/bwc/issues).
+1. when cameras must be turned on and when they absolutely should remain off while a police officer is on duty;
+2. how long a video must be retained after it is recorded; and
+3. how the recorded video is treated for purposes for the relevant public records laws.
 
-Please do not hesitate to contact DCOGC President Kevin M. Goldberg at 703-346-0473 or goldberg@fhhlaw.com if you have any questions regarding this research project.
+For comparison purposes the survey also notes how the jurisdiction treats police dashcam videos for purposes of the public records law.
+
+We have also created an [Executive Summary]({{site.baseurl}}/executive-summary/), which identifies certain trends among the states on various issues.
+
+We have chosen to host this research on GitHub to make the document easier to edit in the likely event that laws are changed or new legislation is introduced. We envision this to be a "living document" and rely on you to help us in that regard. However, the results of our original research, current as of June 12, 2015, are [available here]([original results]({{site.baseurl}}/assets/body_camera_research.pdf).
+
+If there's an error in the information, or you want to provide an update to the information, please let us know using [this form](https://powerful-retreat-1975.herokuapp.com) or submit an [issue at our GitHub repository](https://github.com/dcogc/bwc/issues).

@@ -1,0 +1,27 @@
+---
+layout: default
+---
+<div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+
+    <div class="ui search">
+    <div class="ui icon input">
+      <input class="prompt" type="text" placeholder="Search by jurisdiction...">
+      <i class="search icon"></i>
+    </div>
+    <div class="results"></div>
+  </div>
+</header>
+
+
+  <article class="post-content">
+    <ul>
+    {% for state in site.data.data %}
+    <li><a href="/bwc/jurisdictions/{{state.state}}">{{state.state}}</a></li>
+    {% endfor %}
+  </ul>
+  </article>
+
+</div>
