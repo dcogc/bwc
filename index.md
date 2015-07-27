@@ -18,6 +18,6 @@ For comparison purposes the survey also notes how the jurisdiction treats police
 
 We have also created an [Executive Summary]({{site.baseurl}}/executive-summary/), which identifies certain trends among the states on various issues.
 
-We have chosen to host this research on GitHub to make the document easier to edit in the likely event that laws are changed or new legislation is introduced. We envision this to be a "living document" and rely on you to help us in that regard. However, the results of our original research, current as of June 12, 2015, are [available here]([original results]({{site.baseurl}}/assets/body_camera_research.pdf).
+We have chosen to host this research on GitHub to make the document easier to edit in the likely event that laws are changed or new legislation is introduced. We envision this to be a "living document" and rely on you to help us in that regard. However, the results of our original research, current as of June 12, 2015, are [available here]({{site.baseurl}}/assets/body_camera_research.pdf).
 
 If there's an error in the information, or you want to provide an update to the information, please let us know using [this form](https://powerful-retreat-1975.herokuapp.com) or submit an [issue at our GitHub repository](https://github.com/dcogc/bwc/issues).
